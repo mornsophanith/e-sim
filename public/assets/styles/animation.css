@@ -1,0 +1,92 @@
+/* defines the animation */
+@-webkit-keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translate3d(0, 100%, 0);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+}
+@keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translate3d(0, 100%, 0);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+}
+/* .fade-animation {
+    opacity: 0;
+    -webkit-animation: fadeInUp 1s ease-in-out 0s forwards;
+    animation: fadeInUp 1s ease-in-out 0s forwards;
+}
+.fade-animation.first {
+    -webkit-animation-delay: 0.5s;
+            animation-delay: 0.5s;
+}
+.fade-animation.second {
+    -webkit-animation-delay: 1s;
+            animation-delay: 1s;
+  }
+.fade-animation.third {
+    -webkit-animation-delay: 1.5s;
+            animation-delay: 1.5s;
+} */
+/* letter  */
+/* .fade-letter {
+    opacity: 0;
+    -webkit-animation: fadeInUp 1s ease-in-out 0s forwards;
+    animation: fadeInUp 1s ease-in-out 0s forwards;
+}
+.fade-letter {
+    -webkit-animation-delay: 1s;
+            animation-delay: 1s;
+} */
+
+/* scroll  animation  */
+.fade-animation {
+    -webkit-transition: all 0.8s;
+    transition: all 0.8s;
+    opacity: 0;
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
+}
+  
+.fade-animation.fade {
+    opacity: 1;
+    -webkit-transform: none;
+            transform: none;
+}
+  
+.fade-animation.fade:nth-child(1) {
+    -webkit-transition-delay: 0.1s;
+            transition-delay: 0.1s;
+}
+  
+.fade-animation.fade:nth-child(2) {
+    -webkit-transition-delay: 0.2s;
+            transition-delay: 0.2s;
+}
+  
+.fade-animation.fade:nth-child(3) {
+    -webkit-transition-delay: 0.3s;
+            transition-delay: 0.3s;
+}
+  
+.fade-animation.fade:nth-child(4) {
+    -webkit-transition-delay: 0.4s;
+            transition-delay: 0.4s;
+}
+  
+.fade-animation.fade:nth-child(5) {
+    -webkit-transition-delay: 0.5s;
+            transition-delay: 0.5s;
+}
+.swiper-slide-active .fade-animation.fade {
+    -webkit-transition-delay: 0.5s;
+            transition-delay: 0.5s;
+}

@@ -1,0 +1,255 @@
+.mb-20px {
+    margin-bottom: 20px;
+}
+.main-detail {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.main-detail .detail-description .header-description {
+    position: relative;
+}
+.main-detail .detail-description .header-description .title {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 42px;
+}
+.main-detail .detail-description .header-description::after {
+    content: "";
+    background: #FFD700;
+    position: absolute;
+    width: 8px;
+    height: 112px;
+    left: -18px;
+    top: 0;
+}
+.main-detail .detail-description .header-description .sub-header-title {
+    margin-top: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-detail .detail-description .header-description .sub-header-title .price {
+    color: #FF4B6C;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+}
+.main-detail .detail-description .header-description .sub-header-title .header-right .btn-add-to-cart {
+    width: 170px;
+    height: 44px;
+    background: #2E73DB;
+    border-radius: 24px;
+    color: #fff;
+    border: none;
+}
+.main-detail .detail-description .header-description .btn-add-to-cart-2 {
+    width: 100%;
+    height: 43px;
+    background: #2E73DB;
+    border-radius: 24px;
+    border: none;
+    color: #fff;
+}
+.main-detail .detail-description .header-description .sub-header-title .header-right .quantity {
+    position: relative;
+    margin-right: 10px;
+}
+.main-detail .detail-description .header-description .sub-header-title .header-right .quantity input {
+    width: 120px ;
+    height: 44px ;
+    background: #F9F9F9;
+    border-radius: 24px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #7D8186;
+    padding-left: 22px;
+    margin: 0;
+}
+.main-detail .detail-description .header-description .sub-header-title .header-right .quantity .distract {
+    font-size: 50px;
+    color: #181818;
+    border: none;
+    position: absolute;
+    background: none;
+    top: -9px;
+    left: 10px;
+}
+.main-detail .detail-description .header-description .sub-header-title .header-right .quantity .subtract {
+    font-size: 30px;
+    color: #181818;
+    border: none;
+    position: absolute;
+    background: none;
+    top: -5px;
+    right: 10px;
+}
+.main-detail .detail-description .body-detail {
+    margin-top: 20px;
+}
+.main-detail .detail-description .body-detail .list-detail .item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.main-detail .detail-description .body-detail .list-detail .item:not(:last-child) {
+    border-bottom: 1px solid #F3F3F4;
+}
+.main-detail .detail-description .body-detail .list-detail .text {
+    font-weight: 500;
+    font-size: 16px;
+    color: #A9A9A9;
+}
+.main-detail .detail-description .body-detail .list-detail .value-detail {
+    color: #7D8186;
+}
+.main-detail .relate-datail {
+    margin-top: 20px;
+}
+.main-detail .relate-datail .box-cart {
+    width: auto;
+    height: 400px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.07);
+    border-radius: 16px;
+    padding: 2rem;
+    text-align: center;
+}
+.main-detail .relate-datail .box-cart .icon {
+    width: 120px;
+}
+.main-detail .relate-datail .box-cart .title {
+    font-size: 20px;
+    color: #181818;
+    margin: 20px 0;
+}
+.main-detail .relate-datail .box-cart .description {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    color: #A9A9A9;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 7;
+    white-space: pre-wrap;
+}
+.breadcrumb.header-title {
+    border-bottom: 2px solid #F3F3F4;
+    padding: 8px 0;
+    position: relative;
+    margin-bottom: 20px;
+}
+.breadcrumb.header-title::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    height: 42px;
+    left: 0;
+    top: 7px;
+    background: #FFD700;
+}
+.breadcrumb.header-title .title {
+    font-weight: 600;
+    font-size: 24px;
+    color: #FFD700;
+    padding-left: 25px;
+}
+.section-2 .description {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 30px;
+    color: #7D8186;
+}
+.detail-frequenlty {
+    text-align: left !important;
+}
+.detail-frequenlty .header-title .frequently-title {
+    font-weight: 600;
+    font-size: 24px;
+    color: #FFD700;
+    padding-left: 25px;
+}
+.detail-frequenlty .header-title {
+    margin-bottom: 20px;
+}
+.relate-product .grid-product {
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+.relate-product .grid-product .margin-bottom {
+    margin-bottom: 110px;
+}
+.relate-product .grid-product .box-card {
+    position: relative;
+}
+.relate-product .grid-product .box-card img {
+    border-radius: 10px;
+    height: 450px;
+    width: auto;
+}
+.relate-product .grid-product .box-card .text-info {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    position: absolute;
+    bottom: -80px;
+    height: 136px;
+    padding: 20px;
+    width: 100%;
+}
+.relate-product .grid-product .box-card .text-info .descript {
+    font-weight: 600;
+    font-size: 18px;
+    color: #7D8186;
+}
+.relate-product .grid-product .box-card .text-info .price {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    display: flex;
+    justify-content: flex-end;
+    color: #FF4B6C;
+}
+/* .mySwiperDetail {
+    margin-right: 20px !important;
+} */
+.mySwiperDetail2 .swiper-slide img {
+    border-radius: 20px;
+    width: 100%;
+    height: 620px;
+}
+.mySwiperDetail .swiper-wrapper {
+    margin-top: 20px !important;
+}
+.mySwiperDetail .swiper-button-next, .swiper-button-prev {
+    background: #5b5b5b;
+    opacity: 1;
+    height: 40px !important;
+    width: 40px !important;
+    border-radius: 50px;
+}
+.mySwiperDetail .swiper-button-prev {
+    left: 0px;
+    top: 80px;
+}
+.mySwiperDetail .swiper-button-next {
+    right: 0px;
+    top: 80px;
+}
+.mySwiperDetail .swiper-button-next:after {
+    font-size: 14px;
+    color: #fff
+}
+.mySwiperDetail .swiper-button-prev:after {
+    font-size: 14px;
+    color: #fff;
+}
+.swiper-slide-visible {
+    opacity: 0.2;
+}
+.swiper-slide-thumb-active {
+    opacity: 1;
+}

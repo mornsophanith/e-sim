@@ -1,0 +1,72 @@
+.map .inform-info {
+    position: absolute;
+    width: 1000px;
+    height: 179px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.07);
+    border-radius: 8px;
+    bottom: -80px;
+    right: 80px;
+}
+.map {
+    position: relative;
+    margin-bottom: 100px;
+}
+.map .inform-info .text-info {
+    padding-left: 40px;
+}
+.map .inform-info .text-info .title {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #656565;
+}
+.map .inform-info .text-info li {
+    padding: 12px 0;
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+.map .inform-info .text-info li span {
+    color: #7D8186;
+}
+.map .inform-info .text-info li i {
+    margin-right: 10px;
+    font-size: 14px;
+    color: #7D8186;
+}
+.form-message .form-set .form-control {
+    width: 100%;
+    height: 50px;
+    background: #FAFAFA;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+.form-message .form-set .form-area {
+    width: 100%;
+    height: 200px;
+    background: #FAFAFA;
+    border-radius: 8px;
+    padding-left: 10px;
+    resize: none;
+}
+.form-message .form-set .form-label {
+    font-weight: 500;
+    font-size: 16px;
+    color: #656565;
+}
+.form-message .form-set .send-message {
+    width: 205px;
+    height: 56px;
+    background: #F8C218;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: none;
+    font-weight: 600;
+    color: #000000;
+}
+.form-message .form-set .send-message img {
+    width: 17.9px;
+    margin-left: 16px;
+}

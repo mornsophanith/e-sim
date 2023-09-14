@@ -1,0 +1,2131 @@
+@media (min-width: 320px) {
+    .footer .container .row>* {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .footer .container {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    /* offcanvas */
+    .add-to-card .offcanvas-body .list-item {
+        height: 69vh !important;
+    }
+    .offcanvas .offcanvas-body {
+        height: 89vh !important;
+    }
+    .add-to-card .offcanvas-body .footer-cart {
+        width: 90% !important;
+    }
+    .add-to-card .offcanvas-body .footer-cart .btn-checkout {
+        padding: 15px 104px !important;
+    }
+    .add-to-card .offcanvas-body .list-item {
+        height: 63vh !important;
+    }
+    /* relate slide  */
+    .slide-related {
+        margin-top: 40px !important;
+        margin-bottom: 0 !important;
+    }
+    .title-relate .title {
+        font-size: 14px !important;
+    }
+    .slide-related .swiper-button-next,
+    .slide-related .swiper-button-prev {
+        top: 32% !important;
+        height: 40px !important;
+        width: 40px !important;
+    }
+    /* slide banner  */
+    .main-slider {
+        height: 100% !important;
+        display: block !important;
+    }
+    .slide-banner .swiper-button-prev,
+    .slide-banner .swiper-button-next {
+        height: 40px !important;
+        width: 40px !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide .text h4 {
+        font-size: 16px !important;
+    }
+    .slide-banner .swiper-button-next {
+        right: 0 !important;
+    }
+    .slide-banner .swiper-button-prev {
+        left: 0 !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide .text p {
+        width: 100% !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide .text {
+        top: 30% !important;
+    }
+   .slide-banner .swiper-wrapper .swiper-slide img {
+        height: 150px !important;
+    }
+    /* frequently */
+    .frequently .container {
+        padding-left: 0 !important;
+    }
+    .frequently .title {
+        font-size: 20px !important;
+    }
+    .frequently {
+        padding: 0 !important;
+        height: 100% !important;
+    }
+    .frequently .accordion {
+        font-size: 14px !important;
+        line-height: 22px !important;
+    }
+    .offcanvas-body .list-item .item .frequently .fa-angle-down {
+        display: block;
+    }
+    .offcanvas-body .list-item .item .frequently .active .fa-angle-down {
+        display: none;
+    }
+    .offcanvas-body .list-item .item .frequently .fa-angle-up {
+        display: none;
+    }
+    .offcanvas-body .list-item .item .frequently .active .fa-angle-up {
+        display: block;
+    }
+    .offcanvas-body .list-item .item .frequently {
+        padding: 0 !important;
+        display: grid !important;
+    }
+    .offcanvas-body .list-item .item .frequently .accordion {
+        margin: 0 !important;
+        background: none;
+        padding: 0;
+        color: #000;
+        font-weight: 400;
+        box-shadow: none;
+    }
+    .offcanvas-body .list-item .item .frequently .panel {
+        margin-bottom: 0 !important;
+        background: #F3F3F4 !important;
+        border-radius: 10px;
+        margin-top: 5px;
+    }
+    .offcanvas-body .list-item .item .frequently .panel  ul li {
+        padding: 8px 16px;
+    }
+    .offcanvas-body .list-item .item .frequently .accordion::before {
+        display: none;
+    }
+    .offcanvas-body .list-item .item .frequently .accordion .icon {
+        color: #000;
+        font-weight: bold;
+        margin-left: 10px;
+        margin-right: 20px;
+        font-size: 20px;
+    }
+    /* main-detail  */
+    .main-detail .relate-datail .box-cart {
+        margin-bottom: 25px !important;
+    }
+    .main-detail .detail-description .header-description::after {
+        left: -12px !important;
+    }
+    .main-detail .row>* {
+        padding-left:  0 !important;
+    }
+    .main-detail .detail-description .relate-datail .row>* {
+        padding-left: 0 !important;
+    }
+    .mySwiperDetail2 .swiper-slide {
+        padding-right: 12px !important;
+    }
+    .main-detail {
+        padding: 0 !important;
+    }
+    .main-detail .detail-description .relate-datail .box-cart {
+        margin-bottom: 20px !important;
+    }
+    .main-detail .detail-description .body-detail .list-detail .item {
+        display: grid !important;
+        line-height: 25px !important;
+    }
+    .main-detail .detail-description .header-description .btn-add-to-cart-2 {
+        display: block !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title {
+        margin-top: 10px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .quantity .subtract {
+        top: 0 !important;
+        right: 5px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .quantity .distract {
+        top: -3px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .quantity input {
+        width: 106px !important;
+        height: 38px !important;
+        padding-left: 12px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .btn-add-to-cart {
+        display: none !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .price {
+        font-size: 20px !important;
+    }
+    .main-detail .detail-description .header-description .title {
+        font-size: 20px !important;
+        line-height: 25px !important;
+    }
+    /* relate-product  */
+    .relate-product .row>* {
+        padding-left: 0 !important;
+    }
+    .relate-product .grid-product .box-card .text-info .price {
+        font-size: 20px !important;
+    }
+    .relate-product .grid-product .box-card img {
+        height: auto !important;
+    }
+    .relate-product .grid-product .box-card{
+        margin-bottom: 0 !important;
+    }
+    .relate-product .grid-product {
+        margin-bottom: 20px !important;
+    }
+    /* contact  */
+    .main-contact {
+        padding: 0 !important;
+    }
+    /* about  */
+    .main-about {
+        padding: 0 !important;
+    }
+    .main-about .blog-center .list .item img {
+        margin-bottom: 10px !important;
+    }
+    .main-about .blog-center .list .item .tex-info {
+        margin-left: 0 !important;
+    }
+    .main-about .blog-center .list .item {
+        display: grid !important;
+    }
+    .main-about .text-paragrap .text-image img {
+        margin-left: 0 !important;
+    }
+    .main-about .text-paragrap .text-image {
+        display: grid !important;
+    }
+    /* blog-item */
+    .blog-item {
+        padding: 14px !important;
+    }
+    .blog-item .header-cart .header-right .quantity .qty {
+        font-size: 20px !important;
+    }
+    .blog-item .header-cart .header-left .text-info .price {
+        font-size: 14px !important;
+    }
+    /* account */ 
+    .account .tab button {
+        display: flex !important;
+        margin-bottom: 0px !important;
+        margin-right: 10px !important;
+        padding: 14px !important;
+    }
+    .account .header-form-account .title {
+        font-size: 18px !important;
+    }
+    .account .form-set {
+        width: 100% !important;
+    }
+    .account .tabcontent .form-set .form-control {
+        width: 100% !important;
+    }
+    .account .tabcontent .row .blog-descript .sub-title {
+        font-size: 18px !important;
+    }
+    .account .tabcontent .row .blog-descript .sub-title {
+        font-size: 14px !important;
+    }
+    .account .tabcontent {
+        width: 100% !important;
+        padding: 0 !important;
+    }
+    .account .tab::-webkit-scrollbar {
+        display: none;
+    }
+    .account .tabcontent::after {
+        display: none !important;
+    }
+    .account .form-set {
+        margin: 0 !important;
+    }
+    .account .tabcontent .row {
+        margin: 0 !important;
+    }
+    .account .tab {
+        display: flex !important;
+        height: auto !important;
+        width: 100% !important;
+        overflow-x: auto !important;
+        padding: 0 !important;
+        white-space: nowrap;
+        border-bottom: 7px solid #F1F2F8 !important;
+        padding-bottom: 8px !important;
+    }
+    /* #history */
+    #history .main-header-history .header .btn-header-right .btn {
+        width: 120px !important;
+        font-size: 14px !important;
+    }
+    #history .main-header-history {
+        width: 100% !important;
+        margin: 0 !important;
+    }
+    
+    #change_pass .btn-save-change {
+        right: 0 !important;
+    }
+    /* what-esim */
+    .what-esim .container .row>* {
+        padding-left: 0 !important;
+    }
+    .what-esim .container {
+        padding: 0 !important;
+    }
+    .best-data-plans, .service-work, 
+    .what-esim, .support-device {
+        height: 100% !important;
+    }
+    .what-esim .block-eSim .title {
+        font-size: 20px !important;
+    }
+    /* service-work  */
+    .service-work .container {
+        padding: 0 !important;
+    }
+    .service-work .eSim-work .box-card .descrip {
+        font-size: 14px !important;
+    }
+    .service-work .eSim-work .box-card {
+        height: auto !important;
+        padding: 20px !important;
+    }
+    .service-work .eSim-work .title {
+        font-size: 20px !important;
+        margin-bottom: 20px !important;
+        line-height: 25px !important;
+    }
+    .service-work .eSim-work .box-card:not(:last-child) {
+        margin-right: 0 !important;
+        margin-bottom: 30px !important;
+    }
+    .service-work .eSim-work {
+        margin: 20px 0 !important;
+    }
+    .service-work {
+        padding: 20px 0 !important;
+        display: block !important;
+    }
+    .mySwiper2  {
+        width: 90vw !important; 
+    }
+    .form-message .row>* {
+        padding-left: 0 !important;
+    }
+    .mobile-menu .row>* {
+        padding: 0 !important;
+    }
+    .main-checkout {
+        padding: 0 !important;
+    }
+    .section-2 {
+        padding: 0 !important;
+    }
+    .breadcrumb .title {
+        font-size: 18px !important;
+    }
+    .support-device .header-title .sub-title {
+        font-size: 14px !important
+    }
+    .best-data-plans .text-header .sub-title {
+        font-size: 14px !important;
+    }
+    .best-data-plans .swiper-wrapper .swiper-slide img {
+        height: 300px!important;
+    }
+    .blog-detail {
+        padding: 0 !important;
+    }
+    .mySwiperDetail2 .swiper-slide img {
+        height: auto !important;
+    }
+    .row-checkout .padding-0px {
+        padding: 0 !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup .order-list {
+        padding-right: 0 !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup .step-image img {
+        width: 100% !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup {
+        display: grid !important;
+    }
+    .setup-esim .setup-guide .btn-switch .description {
+        padding: 0 !important;
+    }
+    .set-new-pass .form-set {
+        margin-right: 10px !important;
+    }
+    .waiting-approve .set-new-pass .sand-clock {
+        margin-top: 10px !important;
+    }
+    .waiting-approve {
+        padding-top: 10rem !important;
+    }
+    .reset-password {
+        padding-top: 10rem !important;
+    }
+    .best-data-plans .footer-info .descrip {
+        width: 150px !important;
+    }
+    .best-data-plans .footer-info .price {
+        font-size: 22px !important;
+    }
+   
+     /* login  */
+     .set-password {
+        padding-top: 5rem !important;
+    }
+    .set-password .set-new-pass .form-set-new {
+        width: 32% !important;
+    }
+     .register {
+        padding-top: 5rem !important;
+    }
+     .set-new-pass .form-set-new .form-control {
+        width: 96% !important;
+    }
+     .login {
+        padding: 7rem 0 !important;
+    }
+    .set-new-pass .form-set-new {
+        width: 36% !important;
+    }
+    .set-new-pass .form-set-new .btn-reset {
+        width: 96%!important;
+        margin-top: 30px !important;
+        margin-right: 19px !important;
+    }
+    .set-new-pass .link-page {
+        text-align: center !important;
+    }
+    .set-new-pass .form-set-new .text-header {
+        text-align: center !important;
+    }
+    .set-new-pass .form-set-new {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    .set-new-pass {
+        display: grid !important;
+    }
+    .set-new-pass .thumb-img img {
+        display: none !important;
+    }
+
+   
+    .map .inform-info .text-info {
+        padding-left: 10px !important;
+    }
+    .map .inform-info {
+        position: relative !important;
+        height: initial !important;
+        width: 100% !important; 
+        bottom: 0 !important;
+        right: 0 !important;
+    }
+    .map {
+        margin-bottom: 12px !important;
+    }
+    .mySwiperDetail .swiper-button-prev {
+        top: 50px !important;
+    }
+    .mySwiperDetail .swiper-slide img {
+        border-radius: 10px !important;
+    }
+    .mySwiperDetail .swiper-button-next {
+        top: 50px !important;
+    }
+    .mb-10px {
+        margin-bottom: 10px;
+    }
+    .web-menu {
+        display: none;
+    }
+    .mobile-menu {
+        display: block;
+    }
+    .best-data-plans .text-header .title {
+        font-size: 20px !important;
+        line-height: 25px !important;
+        margin-bottom: 0 !important;
+    }
+    .best-data-plans {
+        padding: 20px 0 !important;
+    }
+    /* .support-device */
+    .support-device .box-card:not(:last-child) {
+        margin-right: 0 !important;
+    }
+    .support-device .header-title .title {
+        font-size: 20px !important;
+    }
+    .support-device {
+        padding: 20px 0 !important;
+    }
+    .support-device .box-card:not(:last-child) {
+        margin-bottom: 30px !important;
+    }
+    .support-device .block-device {
+        display: flex !important;
+        justify-content: center !important;
+    }
+    .support-device .block-device img {
+        height: auto !important;
+        width: 120px !important;
+    }
+    .second-block {
+        margin-top: 30px !important;
+    }
+    #myBtn {
+        height: 50px !important;
+        width: 50px !important;
+    }
+    .footer .copy-right .left, .right {
+        padding: 10px 0 !important;
+    }
+    .copy-right {
+        text-align: center !important;
+    }
+    .relate-product .grid-product .box-card .text-info {
+        bottom: -50px !important;
+        height: 100px !important;
+    }
+}
+@media (min-width: 360px) {
+    .footer .container .row>* {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .footer .container {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .add-to-card .offcanvas-body .footer-cart {
+        width: 91% !important;
+    }
+    .add-to-card .offcanvas-body .list-item {
+        height: 64vh !important;
+    }
+    .offcanvas .offcanvas-body {
+        height: 90vh !important;
+    }
+    .support-device .block-device img {
+        height: auto !important;
+        width: 130px !important;
+    }
+    .relate-product .grid-product .box-card .text-info {
+        bottom: -50px !important;
+        height: 100px !important;
+    }
+}
+@media (min-width: 375px) {
+    .footer .container .row>* {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .footer .container {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    /* offcnavas  */
+    .add-to-card .offcanvas-body .list-item {
+        height: 66vh !important;
+    }
+    .offcanvas .offcanvas-body {
+        height: 89vh !important;
+    }
+    .add-to-card .offcanvas-body .footer-cart {
+        width: 91% !important;
+    }
+    /* relate slide  */
+    .slide-related {
+        margin-top: 40px !important;
+        margin-bottom: 0 !important;
+    }
+    .slide-related .swiper-button-next,
+    .slide-related .swiper-button-prev {
+        top: 32% !important;
+        height: 40px !important;
+        width: 40px !important;
+    }
+    /* slide banner  */
+    .slide-banner .swiper-button-prev,
+    .slide-banner .swiper-button-next {
+        height: 40px !important;
+        width: 40px !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide .text h4 {
+        font-size: 16px !important;
+    }
+    .slide-banner .swiper-button-next {
+        right: 0 !important;
+    }
+    .slide-banner .swiper-button-prev {
+        left: 0 !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide .text p {
+        width: 100% !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide .text {
+        top: 30% !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide img {
+        height: 150px !important;
+    }
+    .frequently .container {
+        padding-left: 0 !important;
+    }
+    .main-detail .relate-datail .box-cart {
+        margin-bottom: 25px !important;
+    }
+    .mySwiper2  {
+        width: 90vw !important; 
+    }
+    .title-relate .title {
+        font-size: 14px !important;
+    }
+    .main-slider {
+        height: 100% !important;
+        display: block !important;
+    }
+    .form-message .row>* {
+        padding-left: 0 !important;
+    }
+    .main-contact {
+        padding: 0 !important;
+    }
+    .mobile-menu .row>* {
+        padding: 0 !important;
+    }
+    .main-about {
+        padding: 0 !important;
+    }
+    .blog-item {
+        padding: 14px !important;
+    }
+    .blog-item .header-cart .header-right .quantity .qty {
+        font-size: 20px !important;
+    }
+    .blog-item .header-cart .header-left .text-info .price {
+        font-size: 14px !important;
+    }
+    .main-checkout {
+        padding: 0 !important;
+    }
+    .relate-product .row>* {
+        padding-left: 0 !important;
+    }
+    .section-2 {
+        padding: 0 !important;
+    }
+    .relate-product .grid-product .box-card .text-info .price {
+        font-size: 20px !important;
+    }
+    .main-detail .detail-description .header-description::after {
+        left: -12px !important;
+    }
+    .main-detail .row>* {
+        padding-left:  0 !important;
+    }
+    .main-detail .detail-description .relate-datail .row>* {
+        padding-left: 0 !important;
+    }
+    .mySwiperDetail2 .swiper-slide {
+        padding-right: 12px !important;
+    }
+    .main-detail {
+        padding: 0 !important;
+    }
+    .service-work .container {
+        padding: 0 !important;
+    }
+    .what-esim .container .row>* {
+        padding-left: 0 !important;
+    }
+    .what-esim .container {
+        padding: 0 !important;
+    }
+    .account .tab button {
+        display: flex !important;
+        margin-bottom: 0px !important;
+        margin-right: 10px !important;
+        padding: 14px !important;
+    }
+    .breadcrumb .title {
+        font-size: 18px !important;
+    }
+    .account .header-form-account .title {
+        font-size: 18px !important;
+    }
+    #history .main-header-history .header .btn-header-right .btn {
+        width: 120px !important;
+        font-size: 14px !important;
+    }
+    #history .main-header-history {
+        width: 100% !important;
+        margin: 0 !important;
+    }
+    .account .tabcontent {
+        width: 100% !important;
+        padding: 0 !important;
+    }
+    .account .tabcontent .row .blog-descript .sub-title {
+        font-size: 18px !important;
+    }
+    .account .tab::-webkit-scrollbar {
+        display: none;
+    }
+    .account .tabcontent .row {
+        margin: 0 !important;
+    }
+    .account .form-set {
+        margin: 0 !important;
+        width: 100% !important;
+    }
+    .account .tabcontent .form-set .form-control {
+        width: 100% !important;
+    }
+    .account .tabcontent::after {
+        display: none !important;
+    }
+    #change_pass .btn-save-change {
+        right: 0 !important;
+    }
+    .account .tab {
+        display: flex !important;
+        height: auto !important;
+        width: 100% !important;
+        overflow-x: auto !important;
+        padding: 0 !important;
+        white-space: nowrap;
+        border-bottom: 7px solid #F1F2F8 !important;
+        padding-bottom: 8px !important;
+    }
+    .support-device .header-title .sub-title {
+        font-size: 14px !important
+    }
+    .service-work .eSim-work .box-card .descrip {
+        font-size: 14px !important;
+    }
+    .best-data-plans .text-header .sub-title {
+        font-size: 14px !important;
+    }
+    .service-work .eSim-work .box-card {
+        height: auto !important;
+        padding: 20px !important;
+    }
+    .what-esim .block-eSim ul li .block-text .sub-title {
+        font-size: 14px !important;
+    }
+    .what-esim .block-eSim .title {
+        font-size: 20px !important;
+    }
+    .best-data-plans .swiper-wrapper .swiper-slide img {
+        height: 300px!important;
+    }
+    .relate-product .grid-product .box-card img {
+        height: auto !important;
+    }
+    .frequently .accordion {
+        font-size: 14px !important;
+        line-height: 22px !important;
+    }
+    .blog-detail {
+        padding: 0 !important;
+    }
+    .mySwiperDetail2 .swiper-slide img {
+        height: auto !important;
+    }
+    .relate-product .grid-product .box-card {
+        margin-bottom: 0 !important;
+    }
+    .row-checkout .padding-0px {
+        padding: 0 !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup .order-list {
+        padding-right: 0 !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup .step-image img {
+        width: 100% !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup {
+        display: grid !important;
+    }
+    .setup-esim .setup-guide .btn-switch .description {
+        padding: 0 !important;
+    }
+    .set-new-pass .form-set {
+        margin-right: 10px !important;
+    }
+    .waiting-approve .set-new-pass .sand-clock {
+        margin-top: 10px !important;
+    }
+    .waiting-approve {
+        padding-top: 10rem !important;
+    }
+    .reset-password {
+        padding-top: 10rem !important;
+    }
+    .best-data-plans, .service-work, .what-esim, .support-device {
+        height: 100% !important;
+    }
+    .best-data-plans .footer-info .price {
+        font-size: 22px !important;
+    }
+     /* login  */
+     .set-password {
+        padding-top: 5rem !important;
+    }
+    .set-password .set-new-pass .form-set-new {
+        width: 32% !important;
+    }
+     .register {
+        padding-top: 5rem !important;
+    }
+     .set-new-pass .form-set-new .form-control {
+        width: 96% !important;
+    }
+     .login {
+        padding: 7rem 0 !important;
+    }
+    .set-new-pass .form-set-new {
+        width: 36% !important;
+    }
+    .set-new-pass .form-set-new .btn-reset {
+        width: 96%!important;
+        margin-top: 30px !important;
+        margin-right: 19px !important;
+    }
+    .set-new-pass .link-page {
+        text-align: center !important;
+    }
+    .set-new-pass .form-set-new .text-header {
+        text-align: center !important;
+    }
+    .set-new-pass .form-set-new {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    .set-new-pass {
+        display: grid !important;
+    }
+    .set-new-pass .thumb-img img {
+        display: none !important;
+    }
+    .offcanvas-body .list-item .item .frequently .fa-angle-down {
+        display: block;
+    }
+    .offcanvas-body .list-item .item .frequently .active .fa-angle-down {
+        display: none;
+    }
+    .offcanvas-body .list-item .item .frequently .fa-angle-up {
+        display: none;
+    }
+    .offcanvas-body .list-item .item .frequently .active .fa-angle-up {
+        display: block;
+    }
+    .offcanvas-body .list-item .item .frequently {
+        padding: 0 !important;
+    }
+    .offcanvas-body .list-item .item .frequently .accordion {
+        margin: 0 !important;
+        background: none;
+        padding: 0;
+        color: #000;
+        font-weight: 400;
+        box-shadow: none;
+    }
+    .offcanvas-body .list-item .item .frequently .panel {
+        margin-bottom: 0 !important;
+        background: #F3F3F4 !important;
+        border-radius: 10px;
+        margin-top: 5px;
+    }
+    .offcanvas-body .list-item .item .frequently .panel  ul li {
+        padding: 8px 16px;
+    }
+    .offcanvas-body .list-item .item .frequently .accordion::before {
+        display: none;
+    }
+    .offcanvas-body .list-item .item .frequently .accordion .icon {
+        color: #000;
+        font-weight: bold;
+        margin-left: 10px;
+        margin-right: 20px;
+        font-size: 20px;
+    }
+    .main-about .blog-center .list .item img {
+        margin-bottom: 10px !important;
+    }
+    .main-about .blog-center .list .item .tex-info {
+        margin-left: 0 !important;
+    }
+    .main-about .blog-center .list .item {
+        display: grid !important;
+    }
+    .main-about .text-paragrap .text-image img {
+        margin-left: 0 !important;
+    }
+    .main-about .text-paragrap .text-image {
+        display: grid !important;
+    }
+    .map .inform-info .text-info {
+        padding-left: 10px !important;
+    }
+    .map .inform-info {
+        position: relative !important;
+        height: initial !important;
+        width: 100% !important; 
+        bottom: 0 !important;
+        right: 0 !important;
+    }
+    .map {
+        margin-bottom: 12px !important;
+    }
+    .relate-product .grid-product {
+        margin-bottom: 20px !important;
+    }
+    .main-detail .detail-description .relate-datail .box-cart {
+        margin-bottom: 20px !important;
+    }
+    .main-detail .detail-description .body-detail .list-detail .item {
+        display: grid !important;
+        line-height: 25px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .btn-add-to-cart {
+        display: none !important;
+    }
+    .best-data-plans .text-header .title {
+        font-size: 20px !important;
+    }
+    
+    .best-data-plans {
+        padding: 20px 0 !important;
+    }
+    .service-work .eSim-work .title {
+        font-size: 20px !important;
+        margin-bottom: 20px !important;
+        line-height: 25px !important;
+    }
+    .service-work .eSim-work .box-card:not(:last-child) {
+        margin-right: 0 !important;
+        margin-bottom: 30px !important;
+    }
+   
+    .service-work .eSim-work {
+        margin: 20px 0 !important;
+    }
+    .service-work {
+        padding: 20px 0 !important;
+        display: block !important;
+    }
+    /* support-device */
+    .support-device .header-title .title {
+        font-size: 20px !important;
+    }
+    .support-device {
+        padding: 20px 0 !important;
+    }
+    .support-device .block-device {
+        display: flex !important;
+        justify-content: center !important;
+    }
+    .support-device .block-device img {
+        height: auto !important;
+        width: 150px !important;
+    }
+    .support-device .box-card:not(:last-child) {
+        margin-right: 0 !important;
+    }
+    .support-device .box-card {
+        width: auto !important;
+    }
+    .support-device .box-card:not(:last-child) {
+        margin-bottom: 30px !important;
+    }
+    .second-block {
+        margin-top: 30px !important;
+    }
+    .frequently .title {
+        font-size: 20px !important;
+    }
+    .frequently {
+        padding: 0 !important;
+        height: 100% !important;
+    }
+    #myBtn {
+        height: 50px !important;
+        width: 50px !important;
+    }
+    .footer .copy-right .left, .right {
+        padding: 10px 0 !important;
+    }
+    .copy-right {
+        text-align: center !important;
+    }
+    .relate-product .grid-product .box-card .text-info {
+        bottom: -50px !important;
+        height: 100px !important;
+    }
+}
+@media (min-width: 425px) {
+    .footer .container {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .footer .container .row>* {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    /* .offcanvas */
+    .offcanvas .offcanvas-body {
+        height: 93vh !important;
+    }
+    .add-to-card .offcanvas-body .list-item {
+        height: 73vh !important;
+    }
+    /* relate slide  */
+    .slide-related {
+        margin-top: 40px !important;
+        margin-bottom: 0 !important;
+    }
+    .slide-related .swiper-button-next,
+    .slide-related .swiper-button-prev {
+        top: 32% !important;
+        height: 40px !important;
+        width: 40px !important;
+    }
+    /* slide banner  */
+    .slide-banner .swiper-wrapper .swiper-slide .text h4 {
+        font-size: 16px !important;
+    }
+    .slide-banner .swiper-button-next {
+        right: 0 !important;
+    }
+    .slide-banner .swiper-button-prev {
+        left: 0 !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide .text p {
+        width: 60% !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide .text {
+        top: 30% !important;
+    }
+    .slide-banner  {
+        margin-top: 16px;
+    }
+    .slide-banner .swiper-slide img {
+        Width: 400px;
+        Height: 120px;
+        border-radius: 16px;
+    }
+    .slide-banner .swiper-button-prev,
+    .slide-banner .swiper-button-next {
+        height: 40px !important;
+        width: 40px !important;
+    }
+    .frequently .container {
+        padding-left: 0 !important;
+    }
+    .main-detail .relate-datail .box-cart {
+        margin-bottom: 25px !important;
+    }
+    .mySwiper2  {
+        width: 90vw !important; 
+    }
+    .title-relate .title {
+        font-size: 14px !important;
+    }
+    .main-slider {
+        height: 100% !important;
+        display: block !important;
+    }
+    .form-message .row>* {
+        padding-left: 0 !important;
+    }
+    .main-contact {
+        padding: 0 !important;
+    }
+    .mobile-menu .row>* {
+        padding: 0 !important;
+    }
+    .main-about {
+        padding: 0 !important;
+    }
+    .blog-item {
+        padding: 14px !important;
+    }
+    .blog-item .header-cart .header-right .quantity .qty {
+        font-size: 20px !important;
+    }
+    .blog-item .header-cart .header-left .text-info .price {
+        font-size: 14px !important;
+    }
+    .main-checkout {
+        padding: 0 !important;
+    }
+    .relate-product .row>* {
+        padding-left: 0 !important;
+    }
+    .section-2 {
+        padding: 0 !important;
+    }
+    .relate-product .grid-product .box-card .text-info .price {
+        font-size: 20px !important;
+    }
+    .main-detail .detail-description .header-description::after {
+        left: -12px !important;
+    }
+    .main-detail .row>* {
+        padding-left:  0 !important;
+    }
+    .main-detail .detail-description .relate-datail .row>* {
+        padding-left: 0 !important;
+    }
+    .mySwiperDetail2 .swiper-slide {
+        padding-right: 12px !important;
+    }
+    .main-detail {
+        padding: 0 !important;
+    }
+    .service-work .container {
+        padding: 0 !important;
+    }
+    .what-esim .container .row>* {
+        padding-left: 0 !important;
+    }
+    .what-esim .container {
+        padding: 0 !important;
+    }
+    .breadcrumb .title {
+        font-size: 18px !important;
+    }
+    .account .header-form-account .title {
+        font-size: 18px !important;
+    }
+    #change_pass .btn-save-change {
+        right: 0 !important;
+    }
+    .support-device .header-title .sub-title {
+        font-size: 14px !important
+    }
+    .service-work .eSim-work .box-card .descrip {
+        font-size: 14px !important;
+    }
+    .best-data-plans .text-header .sub-title {
+        font-size: 14px !important;
+    }
+    .service-work .eSim-work .box-card {
+        height: 364px !important;
+        padding: 20px !important;
+    }
+    .best-data-plans .swiper-wrapper .swiper-slide img {
+        height: 370px!important;
+    }
+    .relate-product .grid-product .box-card img {
+        height: auto !important;
+    }
+    .frequently .accordion {
+        font-size: 14px !important;
+        line-height: 22px !important;
+    }
+    /* .frequently .accordion p {
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 1;
+        white-space: pre-wrap;
+    } */
+    .mySwiperDetail2 .swiper-slide img {
+        height: auto !important;
+    }
+    .row-checkout .padding-0px {
+        padding: 0 !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup .order-list {
+        padding-right: 0 !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup .step-image img {
+        width: 100% !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup {
+        display: grid !important;
+    }
+    .setup-esim .setup-guide .btn-switch .description {
+        padding: 0 !important;
+    }
+    .waiting-approve .set-new-pass .sand-clock {
+        margin-top: 10px !important;
+    }
+    .waiting-approve {
+        padding-top: 10rem !important;
+    }
+    #history .main-header-history .header .btn-header-right .btn {
+        width: 100px !important;
+    }
+    #history .main-header-history .btn-header-left { 
+        display: flex !important;
+    }
+    .account .tabcontent .row .blog-descript .sub-title {
+        font-size: 18px !important;
+    }
+    .account .tabcontent .form-set .form-control {
+        width: 100% !important;
+    }
+    .account .tabcontent {
+        width: 100% !important;
+    }
+    .account .form-set {
+        margin-left: 0 !important;
+        width: 100% !important;
+    }
+    #history .main-header-history {
+        margin-left: 0 !important;
+        width: 100% !important;
+    }
+    .account .tabcontent .row {
+        margin-left: 0 !important;
+    }
+    .account .tabcontent::after {
+        display: none;
+    }
+    .account .tab button {
+        display: flex !important;
+        margin-bottom: 0px !important;
+        margin-right: 10px !important;
+        padding: 14px !important;
+    }
+    .account-tab {
+        display: grid !important;
+    }
+    .account .tab {
+        display: flex !important;
+        height: auto !important;
+        width: 100% !important;
+        overflow-x: auto !important;
+        padding: 0 !important;
+        white-space: nowrap;
+        border-bottom: 7px solid #F1F2F8 !important;
+        padding-bottom: 8px !important;
+    }
+    #history .main-header-history .header .btn-header-left .form-date-rang {
+        width: 120px !important;
+    }
+    .account .tabcontent {
+        padding: 0 !important;
+    }
+    .account .tab::-webkit-scrollbar {
+        display: none;
+    }
+    .best-data-plans .footer-info .price {
+        font-size: 25px !important;
+    }
+    .check-mail {
+        padding-top: 10rem !important;
+    }
+    .check-mail .set-new-pass .form-set-new {
+        width: 31.5% !important;
+    }
+    .login .set-new-pass .form-set-new {
+        width: 31.5% !important;
+    }
+    /* login  */
+    .set-password {
+        padding-top: 5rem !important;
+    }
+    .set-password .set-new-pass .form-set-new {
+        width: 31.5% !important;
+    }
+    .reset-password {
+        padding-top: 5rem !important;
+    }
+    .register {
+        padding-top: 5rem !important;
+    }
+    .register .set-new-pass .form-set-new {
+        width: 32% !important;
+    }
+    .set-new-pass .form-set-new .form-control {
+        width: 100% !important;
+    }
+    .login {
+        padding: 7rem 0 !important;
+    }
+    .set-new-pass .form-set-new {
+        width: 31.5% !important;
+    }
+    .set-new-pass .form-set-new .btn-reset {
+        width: 100%!important;
+        margin-top: 30px !important;
+        margin-right: 1px !important;
+    }
+    .set-new-pass .link-page {
+        text-align: center !important;
+    }
+    .set-new-pass .form-set-new .text-header {
+        text-align: center !important;
+    }
+    .set-new-pass .form-set-new {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    .set-new-pass {
+        display: grid !important;
+    }
+    .set-new-pass .thumb-img img {
+        display: none !important;
+    }
+    .main-about .blog-center .list .item img {
+        margin-bottom: 10px !important;
+    }
+    .main-about .blog-center .list .item .tex-info {
+        margin-left: 0 !important;
+    }
+    .main-about .blog-center .list .item {
+        display: grid !important;
+    }
+    .main-about .text-paragrap .text-image img {
+        margin-left: 0 !important;
+    }
+    .main-about .text-paragrap .text-image {
+        display: grid !important;
+    }
+    .map .inform-info .text-info {
+        padding-left: 10px !important;
+    }
+    .map .inform-info {
+        position: relative !important;
+        height: initial !important;
+        width: 100% !important; 
+        bottom: 0 !important;
+        right: 0 !important;
+    }
+    .map {
+        margin-bottom: 12px !important;
+    }
+    .offcanvas-body .list-item .item .frequently .fa-angle-down {
+        display: block;
+    }
+    .offcanvas-body .list-item .item .frequently .active .fa-angle-down {
+        display: none;
+    }
+    .offcanvas-body .list-item .item .frequently .fa-angle-up {
+        display: none;
+    }
+    .offcanvas-body .list-item .item .frequently .active .fa-angle-up {
+        display: block;
+    }
+    .offcanvas-body .list-item .item .frequently {
+        padding: 0 !important;
+        height: 100% !important;
+        display: grid !important;
+    }
+    .offcanvas-body .list-item .item .frequently .accordion {
+        margin: 0 !important;
+        background: none;
+        padding: 0;
+        color: #000;
+        font-weight: 400;
+        box-shadow: none;
+    }
+    .offcanvas-body .list-item .item .frequently .panel {
+        margin-bottom: 0 !important;
+        background: #F3F3F4 !important;
+        border-radius: 10px;
+        margin-top: 5px;
+    }
+    .offcanvas-body .list-item .item .frequently .panel  ul li {
+        padding: 8px 16px;
+    }
+    .offcanvas-body .list-item .item .frequently .accordion::before {
+        display: none;
+    }
+    .offcanvas-body .list-item .item .frequently .accordion .icon {
+        color: #000;
+        font-weight: bold;
+        margin-left: 10px;
+        margin-right: 20px;
+        font-size: 20px;
+    }
+   
+    .relate-product .grid-product {
+        margin-bottom: 20px !important;
+    }
+   
+    .main-detail .detail-description .relate-datail .box-cart {
+        margin-bottom: 20px !important;
+    }
+    .main-detail .detail-description .body-detail .list-detail .item {
+        display: grid !important;
+        line-height: 25px !important;
+    }
+    .mySwiperDetail2 .swiper-slide img {
+        height: 400px !important;
+    }
+    .blog-detail {
+        padding: 0 !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .btn-add-to-cart {
+        display: none !important;
+    }
+    .add-to-card .offcanvas-header {
+        height: 58px !important;
+    }
+    .relate-product .grid-product {
+        margin-bottom: 0 !important;
+        margin-top: 30px !important; 
+    }
+    .relate-product .grid-product .box-card {
+        margin-bottom: 0 !important;
+    }
+    .main-detail .detail-description .relate-datail .box-cart {
+        margin-left: 0 !important;
+        margin-bottom: 25px !important;
+    }
+    .main-detail .detail-description .header-description::after {
+        height: 157px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .price {
+        font-size: 30px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .quantity .subtract {
+        top: 0px !important;
+        right: 8px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .quantity .distract {
+        top: -4px !important;
+        left: 8px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .quantity input {
+        width: 110px !important;
+        height: 35px !important;
+        padding-left: 8px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .btn-add-to-cart {
+        width: 110px !important;
+        height: 35px !important;
+    }
+    .main-detail .detail-description .header-description {
+        margin-top: 20px !important;
+    }
+    .main-detail .detail-description .header-description .title {
+        font-size: 24px !important;
+    }
+    .main-detail {
+        margin-top: 30px !important;
+        margin-bottom: 30px !important;
+    }
+    .mySwiperDetail .swiper-button-next {
+        top: 50px !important;
+    }
+    .mySwiperDetail .swiper-button-prev {
+        top: 50px !important;
+    }
+    .mb-10px {
+        margin-bottom: 10px;
+    }
+    .web-menu {
+        display: none;
+    }
+    .best-data-plans .text-header .sub-title {
+        padding: 0 !important;
+    }
+    .best-data-plans .text-header .title {
+        font-size: 25px !important;
+        line-height: 30px;
+    }
+    .best-data-plans {
+        padding: 16px 0 !important;
+        height: 100% !important;
+    }
+    .service-work .security img {
+        width: 50px !important;
+    }
+    .service-work .eSim-work .title {
+        font-size: 25px !important;
+        line-height: 30px;
+        margin-bottom: 30px !important;
+    }
+    .service-work .eSim-work .box-card:not(:last-child) {
+        margin-right: 0 !important;
+        margin-bottom: 30px !important;
+    }
+    .service-work {
+        padding: 30px 0 !important;
+        height: 100% !important;
+    }
+    .support-device {
+        height: 100% !important;
+    }
+    .support-device .header-title .title {
+        font-size: 25px !important;
+        line-height: 30px;
+    }
+    .support-device .header-title .sub-title {
+        padding: 0 !important;
+    }
+    .support-device .box-card {
+        width: 100% !important;
+        margin-bottom: 30px !important;
+    }
+    /* .support-device */
+    .support-device .block-device {
+        margin: 0 0 !important;
+    }
+    .support-device .block-device img {
+        height: auto !important;
+        width: 160px !important;
+    }
+    .second-block {
+        margin-top: 30px !important;
+    }
+    .employee-slider .second-block .header-box {
+        justify-content: flex-start !important;
+    }
+    .employee-slider .first-block .logo {
+        width: 100px !important;
+        height: 70px !important;
+    }
+    .what-esim .block-eSim ul li .block-text .title {
+        font-size: 14px !important;
+        margin-bottom: 2px !important;
+    }
+    .accordion-link h3 {
+        font-size: 14px !important;
+    }
+    .frequently .title {
+        font-size: 25px !important;
+        line-height: 30px !important;
+        margin-bottom: 20px !important;
+    }
+    .frequently {
+        padding: 0 !important;
+        height: 100% !important;
+    }
+    .footer {
+        padding: 30px 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .footer .copy-right .left, .right {
+        padding: 10px 0 !important;
+        text-align: center !important;
+    }
+    .footer .copy-right {
+        padding-top: 10px !important;
+        
+    }
+    .employee-slider {
+        padding: 30px 0 !important;
+    }
+    .what-esim .block-eSim .title {
+        font-size: 20px !important;
+        line-height: 30px !important;
+        margin-bottom: 10px !important;
+    }
+    .what-esim {
+        padding: 30px 0 !important;
+        height: 100% !important;
+    }
+    #myBtn {
+        width: 50px !important;
+        height: 50px !important;
+        font-size: 18px !important;
+    }
+    .what-esim .block-eSim ul li .block-text .sub-title {
+        font-size: 14px !important;
+    }
+    .relate-product .grid-product .box-card .text-info {
+        bottom: -50px !important;
+        height: 100px !important;
+    }
+}
+@media (min-width: 768px){
+    .title-relate .title {
+        font-size: 14px !important;
+    }
+    .main-about .blog-center .list .item {
+        display: grid !important;
+    }
+    .main-about .text-paragrap .text-image img {
+        margin-left: 0 !important;
+    }
+    .main-detail .detail-description .body-detail .list-detail .item {
+        display: grid !important;
+    }
+    .main-detail .detail-description .header-description .btn-add-to-cart-2 {
+        display: none !important;
+    }
+    .employee-slider .block-center {
+        justify-content: center;
+    }
+    .mobile-menu .row {
+        margin: 0 !important;
+    }
+}
+@media (min-width: 1440px) {
+    .footer .container {
+        padding-left:  calc(var(--bs-gutter-x) * .5) !important;
+        padding-right:  calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .footer .container .row>* {
+        padding-left:  calc(var(--bs-gutter-x) * .5) !important;
+        padding-right:  calc(var(--bs-gutter-x) * .5) !important;
+    }
+    /* .offcanvas */
+    .add-to-card .offcanvas-body .footer-cart {
+        width: 94% !important;
+    }
+    .offcanvas .offcanvas-body {
+        height: 94vh !important;
+    }
+     /* relate slide  */
+     .slide-related {
+        margin: 50px 0 !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    .slide-related .swiper-button-next,
+    .slide-related .swiper-button-prev {
+        top: 43% !important;
+        height: 50px !important;
+        width: 50px !important;
+    }
+    /* slide banner  */
+    .slide-banner .swiper-button-prev,
+    .slide-banner .swiper-button-next {
+        height: 50px !important;
+        width: 50px !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide .text h4 {
+        font-size: 20px !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide .text {
+        top: 65% !important;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide .text p {
+        width: 100% !important;
+    }
+    .slide-banner .swiper-button-next {
+        right: 21% !important;
+    }
+    .slide-banner .swiper-button-prev {
+        left: 21% !important;
+    }
+    .slide-banner {
+        margin-top: 40px 0 !important;
+    }
+    .slide-banner .swiper-slide img {
+        Width: 100%;
+        Height: auto;
+        border-radius: 16px;
+    }
+    .slide-banner .swiper-wrapper .swiper-slide img {
+        height: 100% !important;
+    }
+    /* frequently */
+    .frequently .container {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+    }
+     .frequently .accordion {
+        font-size: 18px !important;
+        line-height: 22px !important;
+    }
+    .frequently .title {
+        font-size: 37px !important;
+        margin-bottom: 40px !important;
+   }
+    .frequently {
+       margin: 0 !important;
+       height: 100% !important;
+   }
+    .main-detail .relate-datail .box-cart {
+        margin-bottom: 0 !important;
+    }
+    .mySwiper2  {
+        width: 30vw !important; 
+    }
+    .main-slider {
+        height: 100vh !important;
+        display: grid !important;
+    }
+    .form-message .row>* {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .main-contact {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .mobile-menu .row>* {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .main-about {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .blog-item {
+        padding: 30px !important;
+    }
+    .blog-item .header-cart .header-right .quantity .qty {
+        font-size: 24px !important;
+    }
+    .blog-item .header-cart .header-left .text-info .price {
+        font-size: 32px !important;
+    }
+    .main-checkout {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .relate-product .row>* {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .section-2 {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .relate-product .grid-product .box-card .text-info .price {
+        font-size: 32px !important;
+    }
+    .main-detail .detail-description .header-description::after {
+        left: -18px !important;
+    }
+    .main-detail .row>* {
+        padding-left:  calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .main-detail .detail-description .relate-datail .row>* {
+        padding-left:  calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .mySwiperDetail2 .swiper-slide {
+        padding-right: 0px !important;
+    }
+    .main-detail {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .service-work .container {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .what-esim .container .row>* {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .what-esim .container {
+        padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        padding-right: calc(var(--bs-gutter-x) * .5) !important;
+    }
+    .breadcrumb .title {
+        font-size: 24px !important;
+    } 
+    .account .header-form-account .title {
+        font-size: 24px !important;
+    }
+    #change_pass .btn-save-change {
+        right: 28% !important;
+    }
+     #history .main-header-history .header .btn-header-left .form-date-rang {
+        width: 130px !important;
+    }
+    .account .tabcontent {
+        padding: 0 12px !important;
+    }
+    .support-device .header-title .sub-title {
+        font-size: 16px !important;
+    }
+    .service-work .eSim-work .box-card .descrip {
+        font-size: 16px !important;
+    }
+    .best-data-plans .text-header .sub-title {
+        font-size: 16px !important;
+    }
+    .service-work .eSim-work .box-card {
+        height: 370px !important;
+        padding: 60px !important;
+    }
+    .what-esim .block-eSim ul li .block-text .sub-title {
+        font-size: 16px !important;
+    }
+    .best-data-plans .swiper-wrapper .swiper-slide img {
+        height: 405px !important;
+    }
+    .relate-product .grid-product .box-card img {
+        height: 450px !important;
+    }
+   
+    .row-checkout .padding-0px {
+        padding: 0 12px !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup .order-list {
+        padding-right: 50px !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup .step-image img {
+        width: 80% !important;
+    }
+    .setup-esim .setup-guide .btn-switch .tab-content .steb-setup {
+        display: flex !important;
+    }
+    .setup-esim .setup-guide .btn-switch .description {
+        padding: 0 12rem !important;
+    }
+    .set-new-pass .form-set {
+        margin-right: 0 !important;
+    }
+    .waiting-approve .set-new-pass .sand-clock {
+        margin-top: 40px !important;
+    }
+    .waiting-approve {
+        padding: 0 !important;
+    }
+    .waiting-approve .set-new-pass .form-set-new .text-header {
+        text-align: center !important;
+    }
+    .check-mail {
+        padding: 0 !important;
+    }
+    .account .tab {
+        border: none !important;
+    }
+    #history .main-header-history .header .btn-header-right .btn {
+        width: 130px !important;
+    }
+   
+    .account .tabcontent .row .blog-descript .sub-title {
+        font-size: 24px !important;
+    }
+    .account .tab button {
+        margin-right: 0 !important;
+        margin-bottom: 10px !important;
+    }
+    .account .tabcontent .form-set .form-control {
+        width: 450px !important;
+    }
+    .account .tabcontent {
+        width: 65% !important;
+    }
+    .account .form-set {
+        margin-left: 70px !important;
+        width: 58% !important;
+    }
+    #history .main-header-history {
+        margin-left: 70px !important;
+        width: 70% !important;
+    }
+    .account .tabcontent .row {
+        margin-left: 70px !important;
+    }
+    .account .tabcontent::after {
+        display: block !important;
+    }
+    .account-tab {
+        display: flex !important;
+    }
+    .account .tab {
+        display: grid !important;
+        height: 100% !important;
+        width: 35% !important;
+        overflow-x: hidden !important;
+        padding-right: 50px !important;
+    }
+
+    .best-data-plans .footer-info .descrip {
+        width: 210px !important;
+    }
+    .best-data-plans .footer-info .price {
+        font-size: 40px !important;
+    }
+    .what-esim , .support-device, .service-work, .best-data-plans {
+        height: 100vh !important;
+    }
+    .set-password .set-new-pass .form-set-new {
+        width: 36% !important;
+    }
+    .reset-password {
+        padding: 0 !important;
+    }
+    .set-password {
+        padding: 0 !important;
+    }
+    .register {
+        padding: 0 !important;
+    }
+    .reset-password .set-new-pass .form-set-new {
+        width: 36% !important;
+    }
+    .register .set-new-pass .form-set-new {
+        width: 36% !important;
+    }
+    .set-new-pass .form-set-new .form-control {
+        width: 100% !important;
+    }
+    .set-new-pass .form-set-new .btn-reset {
+        width: 192px !important;
+        right: 0 !important;
+        margin-right: 0 !important;
+    }
+    .set-new-pass .form-set-new {
+        width: 36% !important;
+        margin-top: auto !important;
+        margin-bottom: auto !important;
+        padding-right: 100px !important;
+        padding-left: 100px !important;
+    }
+    .set-new-pass .form-set-new .text-header {
+        text-align: left !important;
+    }
+    .set-new-pass .link-page {
+        text-align: left !important;
+    }
+    .login {
+        padding: 0 !important;
+    }
+    .set-new-pass {
+        display: flex !important;
+    }
+    .set-new-pass .thumb-img img {
+        display: block !important;
+    }
+    .main-about .blog-center .list .item img {
+        margin-bottom: 0 !important;
+    }
+    .main-about .blog-center .list .item .tex-info {
+        margin-left: 25px !important;
+    }
+    .main-about .blog-center .list .item {
+        display: flex !important;
+    }
+    .main-about .text-paragrap .text-image img {
+        margin-left: 30px !important;
+    }
+    .main-about .text-paragrap .text-image {
+        display: flex !important;
+    }
+    .map .inform-info {
+        position: absolute !important;
+        width: 1000px !important;
+        height: 179px !important;
+        bottom: -80px !important;
+        right: 80px !important;
+    }
+    .map .inform-info .text-info {
+        padding-left: 40px !important;
+    }
+    .map {
+        margin-bottom: 100px !important;
+    }
+    .mySwiperDetail .swiper-slide img {
+        border-radius: 20px !important;
+        height: 130px !important;
+    }
+    .relate-product .grid-product .box-card:not(:last-child) {
+        margin-bottom: 0 !important;
+    }
+    .support-device .box-card:not(:last-child) {
+        margin-right: 30px !important;
+        margin-bottom: 0 !important;
+    }
+    .main-detail .detail-description .relate-datail .box-cart {
+        margin-bottom: 0 !important;
+    }
+    .main-detail .detail-description .body-detail .list-detail .item {
+        display: flex !important;
+    }
+    .main-detail .detail-description .header-description .btn-add-to-cart-2 {
+        display: none !important;
+    }
+    .employee-slider .block-center {
+        justify-content: flex-start;
+    }
+    .service-work .eSim-work .box-card .title {
+        font-size: 20px !important;
+    }
+    .relate-product .grid-product {
+        margin-bottom: 50px !important;
+        margin-top: 50px !important; 
+    }
+    .relate-product .grid-product .box-card {
+        margin-bottom: 0 !important;
+    }
+    .main-detail .detail-description .relate-datail .box-cart {
+        margin-left: 0 !important;
+        margin-bottom: 0 !important;
+    }
+    .main-detail .detail-description .header-description::after {
+        height: 100px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .price {
+        font-size: 40px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .quantity input {
+        width: 120px !important;
+        height: 40px !important;
+        padding-left: 15px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .btn-add-to-cart {
+        width: 170px !important;
+        height: 40px !important;
+        display: block !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right {
+        display: flex !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .quantity .distract {
+        top: 4px !important;
+    }
+    .main-detail .detail-description .header-description .sub-header-title .header-right .quantity .subtract {
+        top: 8px !important;
+    }
+    .main-detail .detail-description .header-description .title {
+        font-size: 28px !important;
+    }
+    .main-detail .detail-description .header-description {
+        margin-top: 0 !important;
+    }
+    .main-detail {
+        margin-top: 50px !important;
+        margin-bottom: 50px !important;
+    }
+    .mySwiperDetail .swiper-button-next {
+        top: 80px !important;
+    }
+    .mySwiperDetail .swiper-button-prev {
+        top: 80px !important;
+    }
+    .footer .copy-right .left {
+        padding: 20px 0 !important;
+        text-align: left !important;
+    }
+    .footer .copy-right .right {
+        padding: 20px 0 !important;
+        text-align: right !important;
+    }
+    #myBtn {
+        width: 60px !important;
+        height: 60px !important;
+        font-size: 22px !important;
+    }
+    .what-esim {
+        padding: 50px 0 !important;
+    }
+    .footer {
+        padding: 60px 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .footer .copy-right {
+        justify-content: space-between !important;
+        display: flex !important;
+        padding-top: 60px !important;
+    }
+    .support-device .header-title .title {
+        font-size: 37px !important;
+    }
+    .employee-slider {
+        padding: 50px 0 !important;
+    }
+    .footer .copy-right .pull-left, .pull-right {
+        padding: 20px 0 !important;
+    }
+    .employee-slider .first-block .logo {
+        width: 117px !important;
+        height: auto !important;
+    }
+    .service-work .eSim-work .box-card:not(:last-child) {
+        margin-right: 18px !important;
+    }
+    .what-esim .block-eSim ul li .block-text .title {
+        font-size: 20px !important;
+        margin-bottom: 10px !important;
+    }
+    .what-esim .block-eSim .title {
+        font-size: 37px !important;
+        margin-bottom: 40px !important
+    }
+    .employee-slider {
+        padding: 30px 0 !important;
+    }
+    .employee-slider .second-block .header-box {
+        justify-content: center !important;
+    }
+    .second-block {
+        margin-top: 0 !important;
+    }
+    .support-device .block-device {
+        margin: 40px 0 !important;
+    }
+    .support-device .box-card {
+        width: 264px !important;
+        margin-bottom: 0px !important;
+    }
+    .support-device .header-title .sub-title {
+        padding: 0 20rem !important;
+    }
+    .support-device .box-card img {
+        width: 207.22px !important;
+        height: 399.23px !important;
+    }
+    .service-work {
+        padding: 50px 0 !important;
+        display: flex !important;
+        align-items: center !important;
+    }
+    .service-work .security img {
+        width: 100px !important;
+    }
+    .service-work .eSim-work .title {
+        font-size: 36px !important;
+        margin-bottom: 40px !important;
+        line-height: 25px !important;
+    }
+    .mobile-menu {
+        display: none;
+    }
+    .web-menu {
+        display: block;
+    }
+    .best-data-plans {
+        padding: 50px 0 !important;
+        display: flex;
+        align-items: center;
+    }
+    .best-data-plans .text-header .title {
+        font-size: 37px !important;
+        margin-bottom: 40px !important;
+    }
+    .best-data-plans .text-header .sub-title {
+        padding: 0 19rem !important;
+    }
+    .blog-detail {
+        padding: 30px !important; 
+        padding-top: 0 !important;
+    }
+    .mySwiperDetail2 .swiper-slide img {
+        height: 620px !important;
+    }
+    .relate-product .grid-product .box-card .text-info {
+        bottom: -80px !important;
+        height: 136px !important;
+    }
+   
+}
